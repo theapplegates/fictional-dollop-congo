@@ -127,6 +127,9 @@ This will replace the default _tags_ and _categories_ with _topics_. Refer to th
 
 When you create a new taxonomy, you will need to adjust the navigation links on the website to point to the correct sections, which is covered below.
 
+
+![Dad and sons](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Dad-kevin-meApril-10-2010.jpg)
+
 ## Menus
 
 Congo has two menus that can be customised to suit the content and layout of your site. The `main` menu appears in the site header and the `footer` menu appears at the bottom of the page just above the copyright notice.
@@ -162,3 +165,5 @@ Both menus are completely optional and can be commented out if not required. Use
 ## Detailed configuration
 
 The steps above are the bare minimum configuration. If you now run `hugo server` you will be presented with a blank Congo website. Detailed configuration is covered in the [Configuration]({{< ref "configuration" >}}) section.
+
+![Signature](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Signature-Paul-Applegate-maybe-last.png)
